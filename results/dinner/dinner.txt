@@ -1,0 +1,66 @@
+Features that are found in one cluster:
+Cluster: 1	Feature: by, honor, than, *ADJ_l*, *NOUN_l*
+Cluster: 2	Feature: hour, up, you
+
+-------------------
+
+Example:
+
+
+Feature 'by' and Cluster 1:
+1. The dinner is sponsored by organized labor and is scheduled for 7 p.m. .
+2. Mr. Sorrentino will be honored on the evening of Dec. 7 at a dinner to be given by the Aurora Club at the Sheraton-Biltmore Hotel .
+3. A father and son dinner sponsored by the Men's Club will be held at 6:15 p.m. Monday and the annual church picnic at 4 p.m. next Saturday .
+4. A dinner and celebration in honor of this piece of engineering took place July 4 , 1793 , in a tavern erected by the corporation on the island .
+5. This dinner was the start of a new blatancy in the relationship between the gangs and the politicians , which , prior to 1924 , says Pasley , `` had been maintained with more or less stealth '' , but which henceforth was marked by these ostentatious gatherings , denounced by a clergyman as `` Belshazzar feasts '' , at which `` politicians fraternized cheek by jowl with gangsters , openly , in the big downtown hotels '' .
+
+
+Feature 'honor' and Cluster 1:
+1. Secretary of Labor Arthur Goldberg will speak Sunday night at the Masonic Temple at a $25-a-plate dinner honoring Sen. Wayne L. Morse , Aj .
+2. Arnold Palmer and Sam Snead will be among those honored at the national awards dinner of the Metropolitan Golf Writers Association tonight .
+3. Mr. and Mrs. Richard B. McConnell and their son-in-law and daughter , Mr. and Mrs. Raymond B. Walker will be hosts this Tuesday evening at dinner at the State St. home of the Walkers honoring Mrs. McConnell's debutante niece , Miss Barbara Williams .
+4. Mr. Sorrentino will be honored on the evening of Dec. 7 at a dinner to be given by the Aurora Club at the Sheraton-Biltmore Hotel .
+5. Mr. and Mrs. Joseph R. Bolker will give a dinner on Friday at their home in Beverly Hills to honor Mrs. Norman Chandler , chairman of the Music Center Building Fund Committee , and Mr. Chandler .
+
+
+Feature 'than' and Cluster 1:
+1. Speakers at a Tipoff Club dinner dealt lavish praise to a group of St. Louis University players who , in the words of Coach John Benington , `` had more confidence in themselves than I did '' .
+2. Earlier this month Edward R. Murrow , director of the United States Information Agency , came to Hollywood and had dinner with more than 100 leaders of the motion picture industry .
+3. But the problem is one which gives us the measure of a man , rather than a group of men , whether a group of doctors , a group of party members assembled at a dinner to give their opinion , or the masses of the voters .
+
+
+Feature '*ADJ_l*' and Cluster 1:
+1. With the announcement of a `` special achievement award '' to William A. ( ( Bill ) Shea , the awards list was completed yesterday for Sunday night's thirty-eighth annual dinner and show of the New York Chapter , Baseball Writers' Association of America , at the Waldorf-Astoria Hotel .
+2. And to encourage other churches to try their own programs , Kern said this Sunday's sessions -- including the free dinner -- will be open to anyone who makes reservations .
+3. The times I can recall when I was publicly humiliated by him -- lovely dinner parties in our Trianon Suite where the collation was postponed and postponed and postponed , only to be served dry and overcooked at a table where the host's chair was vacant ; ;
+
+
+Feature '*NOUN_l*' and Cluster 1:
+1. Secretary of Labor Arthur Goldberg will speak Sunday night at the Masonic Temple at a $25-a-plate dinner honoring Sen. Wayne L. Morse , Aj .
+2. Arnold Palmer and Sam Snead will be among those honored at the national awards dinner of the Metropolitan Golf Writers Association tonight .
+3. Mr. and Mrs. Stevens and the bride's other uncles and aunts , the Rush C. Butlers , the Homer E. Robertsons , and the David Q. Porters , will give the bridal dinner tonight in the Stevenses' home .
+4. Brig. Gen. and Mrs. Robert F. McDermott will entertain at a black tie dinner Wednesday , May 3 , in the Officers' Club at the Air Force Academy .
+5. There will be a stag dinner Friday evening at the Denver Country Club which will precede the opening of the 1961 golf season .
+
+
+Feature 'hour' and Cluster 2:
+1. But she does indicate festivities will start early , that a jazz combo will `` give with the Basin Street beat '' during the cocktail and dinner hours and that Lester Lanin's orchestra will take over during the dancing .
+2. Bandstand features Hal DeCicco , pianist , for both dinner hour and the late trade .
+3. The dinner hour there was twelve noon .
+4. The duration of the digestive process varies , the pathologist says , but the empty stomach and the findings in the upper gastrointestinal tract indicate that Mrs. Meeker died several hours after her seven-o'clock dinner .
+
+
+Feature 'up' and Cluster 2:
+1. They divide up the household chores : Cerv does most of the cooking ( breakfast and sandwich snacks , with dinner out ) , Mantle supplies the transportation ( a white 1961 Oldsmobile convertible ) , and Maris drives the 25-minute course from the apartment house to Yankee Stadium .
+2. The woman in the house where the niece was staying backed up his story and said she left when he did to shop for her dinner .
+3. He said he had promised Mrs. Borden to return in time for dinner and that was close to the time when he did turn up at the Borden house .
+4. It was a dinner party , Lewis had been drinking during the afternoon , and long before the party really got under way , he was quite drunk , with the result that the party broke up even before dinner was over .
+5. Once many years ago I sat at dinner next to Arthur Train , and the subject of The Nation came up .
+
+
+Feature 'you' and Cluster 2:
+1. `` She wants you and Barbara to have dinner with her tomorrow night '' .
+2. I want to get my kit in tomorrow morning -- would you mind doing them while I cook the dinner '' ? ?
+3. `` There are things about me that I can't tell you now , Mary Jane '' , I said , `` but if you'll go out to dinner with me when I get out of Hanover , I'd like to tell you the whole story .
+4. `` Don't you think it's selfish to have dinner before you go to pick her up '' ? ?
+5. You shall see her at dinner '' .

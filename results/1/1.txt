@@ -1,0 +1,41 @@
+Features that are found in one cluster:
+Cluster: 4	Feature: john
+Cluster: 5	Feature: july
+Cluster: 3	Feature: world
+Cluster: 6	Feature: *NOUN_l*
+
+-------------------
+
+Example:
+
+
+Feature 'john' and Cluster 4:
+1. 1 St. John 5 : 1 .
+2. 1 St. John 3 : 9 .
+3. 1 St. John 18 .
+4. 1 St. John 29 .
+5. 1 St. John 4 : 7 .
+
+
+Feature 'july' and Cluster 5:
+1. By July 1 , six weeks from now , motel-keepers all over the nation will , by 6 p.m. , be switching on that bleak -- to motorists -- sign , `` No Vacancy '' .
+2. Total farm output for this year is officially forecast at 129% of the 1947-49 average , three points higher than the July 1 estimate and exactly equal to the final figure for 1960 .
+3. Higher tolls are planned for July 1 , 1961 , on the Richmond-Petersburg , Va. , Turnpike , and proposals for increased tolls on the Texas Turnpike are under study .
+4. It doesn't take a Gore Vidal to tell you what's wrong with Cherokee Textile's slogan ( Pitney-Bowes Objects '' , July 1 ) .
+5. In order to further refine the management of passenger vehicles , on July 1 , 1958 , the actual title to every vehicle was transferred , by Executive Order , to the Division of Methods , Research and Office Services .
+
+
+Feature 'world' and Cluster 3:
+1. He was born in Pittsboro , Miss. , and was a veteran of World War 1 .
+2. And if the foreigners fighting in the Katanga Army are mercenaries then Lafayette and Von Steuben were mercenaries too , as were also the members of the Lafayette Escadrille in the early part of World War 1 , and of Chennault's Flying Tigers in the early days of World War 2 .
+3. This fascinating story begins with a sketch , rich in personal detail , of the glancing mutual impact of World War 1 , and the two instalments of the Russian Revolution .
+4. These qualities endeared him to both the musicians and the social-economic haute monde which supported the concert world of the post-World War 1 , era .
+5. They had courage but their meager training consisted of weekend hops in good weather , in and out of established airports , And the increasingly cold weather soon raised hob with the water cooled engines of their World War 1 , planes .
+
+
+Feature '*NOUN_l*' and Cluster 6:
+1. It is designated as Stage 1 Residential on the Redevelopment Authority's master plan and will feature row houses , garden apartments , four small parks , schools , churches , a shopping center and several small clusters of stores .
+2. The second agreement permits the authority to sell a 520-acre tract west of Stage 1 Residential to Philadelphia Builders Eastwick Corp. , a firm composed of 10 Philadelphia area builders , which is interested in developing part of the project .
+3. The new City Charter , which should get a Yes vote as Question No. 1 on Nov. 7 , would not make a good Mayor out of a bad one .
+4. `` Wagon Train '' is reported the No. 1 TV show .
+5. `` Article 17 , Section 1 : :

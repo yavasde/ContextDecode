@@ -1,0 +1,35 @@
+Features that are found in one cluster:
+Cluster: 1	Feature: could
+Cluster: 4	Feature: entitle, subject
+Cluster: 2	Feature: *NOUN_l*
+
+-------------------
+
+Example:
+
+
+Feature 'could' and Cluster 1:
+1. Of another colleague , George Santayana , he could write : `` The great event in my life recently has been the reading of Santayana's book .
+2. they read every book that they could borrow in the village .
+3. On the way they tried to discover all they could about Burma , and they were disturbed to find that Michael Symes's book had not presented an altogether true picture .
+4. Later , rising ninety , he was beset by publishers for the story of his life and miracles , as he put it , but , calling himself the Needy Knife-grinder , he had spent his time writing short articles and long letters and could not get even a small popular book done .
+5. Both Alfred Harcourt and Donald Brace had written him enthusiastic praise of Elmer Gantry ( any changes could be made in proof , which was already coming from the printer ) and they had ordered 140,000 copies -- the largest first printing of any book in history .
+
+
+Feature 'entitle' and Cluster 4:
+1. His new book , entitled `` Slums And Suburbs '' , calls for fast and drastic action to avert disaster .
+2. While convalescing in his Virginia home he wrote a book recording his prison experiences and escape , entitled : They Shall Not Have Me Published originally in ( Helion's ) English by Dutton & Co. of New York , in 1943 , the book was received by the press as a work of astonishing literary power and one of the most realistic accounts of World War 2 , from the French side .
+3. This might be said to be an upper- or an upper-middle-class bias , but the Commission published as one of its staff studies a book by Byron S. Hollingshead entitled Who Should Go To College ? ?
+
+
+Feature 'subject' and Cluster 4:
+1. The following discussion of this subject has been adapted from the book Causes Of Catastrophe by L. Don Leet .
+2. Willard Thorp , in his new book , American Writing In The Twentieth Century , observes , quite validly it seems : `` Certain subjects are conspicuously absent or have been only lightly touched .
+
+
+Feature '*NOUN_l*' and Cluster 2:
+1. Publisher Richardson has updated the Blue Book `` but it still remains the compact reference book used by so many for those ever-changing telephone numbers , addresses , other residences , club affiliations and marriages '' .
+2. The 1960 tax book for East Greenwich indicates a valuation for this property in excess of two million dollars .
+3. Vernon kept an account book with a list of all the establishments that he thought worthy of patronage .
+4. I had had my name taken out of the telephone book , and this was partly because of a convict who had been discharged from Sing Sing and who called me night after night .
+5. It must have been with some pleasure and relief that on September 12 , 1848 , Joseph Brown made the momentous entry in his job book , in his characteristically cryptic style , `` Lucian Sharpe came to work for me this day as an apprentice '' .

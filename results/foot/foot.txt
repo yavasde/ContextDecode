@@ -1,0 +1,61 @@
+Features that are found in one cluster:
+Cluster: 1	Feature: 50, square, *NUM_l*, *ADV_r*
+Cluster: 2	Feature: *conj*, *PRON_l*, *DET_l*
+
+-------------------
+
+Example:
+
+
+Feature '50' and Cluster 1:
+1. They'll travel 50 feet or more when thrown from the spring trap but it's almost impossible to break one after it passes the 35-foot mark .
+2. He reasons that as anacondas 30 feet long are often found , some might be 38 , and occasional `` monstrous freaks '' over 50 .
+3. Thus , his estimate lies between Oliver's suggestion of at least 37 feet and the 50-foot `` monstrous freaks '' intimated by Heuvelmans .
+
+
+Feature 'square' and Cluster 1:
+1. The property included a one-story brick manufacturing building on 8,293 square feet of land .
+2. Available in Af sheets , it costs about a dollar a square foot .
+3. A very rough rule of thumb is that , under favorable conditions , you'll need 15 BTU's of cooling for every square foot of your house .
+4. A large picnic area or camping development is most efficient in shape as a square or rectangle several hundred feet in width in preference to a long narrow area less than one hundred feet wide .
+5. In point of fact , this is a beige box with a bright red door , about one and a half feet square and hung from the wall about six feet from the door to Wisman's right .
+
+
+Feature '*NUM_l*' and Cluster 1:
+1. The left front wheel landed 100 feet away .
+2. In the ninth , Robinson led off with his second double of the night , a blast off the fence 375 feet deep into left .
+3. Lumpe worked a walk as the first batter to face Hyde and romped around as Siebern blasted Hyde's next toss 415 feet over the scoreboard in right center .
+4. In the third Frank Robinson hammered a long home run deep into the corner of the bleachers in right center , about 400 feet away , with two men on .
+5. At 12,000 feet , Fiedler signaled `` release '' , and started the roaring pulse-jet engine -- then streaked away from beneath the Heinkel .
+
+
+Feature '*ADV_r*' and Cluster 1:
+1. The left front wheel landed 100 feet away .
+2. In the third Frank Robinson hammered a long home run deep into the corner of the bleachers in right center , about 400 feet away , with two men on .
+3. Squeezed into the few cubic feet normally filled by the rocket's automatic guidance mechanism , the scientist waited while the bomber gained altitude .
+4. You will need a stereo music system , with speakers preferably placed at least seven or eight feet apart , and one or more of the new London `` Phase 4 '' records .
+5. Cut dough carefully into 12 strips , about 3/4 inch by a foot long .
+
+
+Feature '*conj*' and Cluster 2:
+1. In this way , you can arrange his legs and arms in any desired position , with feet , or one foot , barely resting on the pedestal .
+2. Thor Hanover ( Adios-Trustful Hanover ) is a wonderful looking prospect and another good individual , with solid , rugged conformation , good , flat bone and excellent feet .
+3. Start on hands and feet .
+4. -- For calves , feed not less than 50 grams of Aureomycin per ton complete feed as an aid in preventing bacterial diarrhea and foot rot .
+5. and they had ( vaguely ) heads and feet .
+
+
+Feature '*PRON_l*' and Cluster 2:
+1. In his only attack on the Republicans , Hughes said , `` The three Republican candidates for governor are tripping over their feet for popular slogans to win the primary .
+2. Bill Mazeroski with and Hal Smith with were the only Pirates dragging their feet .
+3. Point is that developing countries often build up a textile industry first , need encouragement to get on their feet .
+4. Mr. Podger sat down in it , pushed himself back and forth in one or two slow , rhythmic motions , and then swung his feet up into it .
+5. The small shaft of blue had drifted down and come to rest at his feet .
+
+
+Feature '*DET_l*' and Cluster 2:
+1. I explained , however , that I had my share of hardship in making my daily pilgrimage to the feet of wisdom .
+2. Make sure that the metal tube through which the wire passes is in the shape of an inverted `` L '' , the foot of the `` L '' about three inches long , so that the puppet can hang directly under the light .
+3. Sizzling temperatures and hot summer pavements are anything but kind to the feet .
+4. Start by falling forward to a point close to the feet , and , as strength improves , fall farther and farther out .
+5. As flexibility improves , the feet will move closer to the hands and the bridge rise higher .

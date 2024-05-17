@@ -1,0 +1,56 @@
+Features that are found in one cluster:
+Cluster: 1	Feature: '', one, *p_7*, *NOUN_r*, *PUNCT_r*
+Cluster: 2	Feature: -, with
+
+-------------------
+
+Example:
+
+
+Feature '''' and Cluster 1:
+1. But I wold say I recond he did not mind it for he had a plenty more left and then they would lean to me like a sore eyd kitten to a basin of milk '' .
+2. Soybean flour , grits , flakes , `` milk '' , and curd can be bought in the United States .
+3. `` Dry stock '' denoted , regardless of age or sex , such bovines as were givin' no milk .
+4. A `` wet herd '' was a herd of cattle made up entirely of cows , while `` wet stuff '' referred to cows givin' milk .
+5. The cowboy's humorous name for a cow givin' milk was a `` milk pitcher '' .
+
+
+Feature 'one' and Cluster 1:
+1. Because Holstein cattle weren't a beef breed , they were rarely seen on a ranch , though one might be found now and then for the milk supply .
+2. One must include the preparation of soft drinks and the processing of milk and milk products .
+
+
+Feature '*p_7*' and Cluster 1:
+1. Lots of cheese made from June grass milk is served .
+
+
+Feature '*NOUN_r*' and Cluster 1:
+1. Keys has no such objections to Metrecal , Quaker Oats's Quota and other 900-calorie milk formulas that are currently winning favor from dieters .
+2. Fed to dairy cattle to increase milk production and butterfat percentage .
+3. Otherwise , you may be saddled with a good-size milk bill by milk drinkers .
+4. Because Holstein cattle weren't a beef breed , they were rarely seen on a ranch , though one might be found now and then for the milk supply .
+5. The cowboy's humorous name for a cow givin' milk was a `` milk pitcher '' .
+
+
+Feature '*PUNCT_r*' and Cluster 1:
+1. If it's true that contented cows give more milk , why shouldn't happy ball players produce more base hits ? ?
+2. If you plan to sell fresh vegetables or whole milk , for example , you should be close to a town or city .
+3. But I wold say I recond he did not mind it for he had a plenty more left and then they would lean to me like a sore eyd kitten to a basin of milk '' .
+4. it should be remembered that their lasting qualities are appreciably shorter than those of milk .
+5. Soybean flour , grits , flakes , `` milk '' , and curd can be bought in the United States .
+
+
+Feature '-' and Cluster 2:
+1. At juice bars in Los Angeles' 35 `` health '' stores , a new sensation is a pink , high-protein cocktail , concocted of dried eggs , powdered milk and cherry-flavored No-Cal , which sells for 59-cents per 8-oz. glass .
+2. With meat , milk , butter and ice cream , the calorie-heavy U.S. diet is 40% fat , and most of that is saturated fat -- the insidious kind , says Dr. Keys , that increases blood cholesterol , damages arteries , and leads to coronary disease .
+3. Mr. Clark believes in a good full breakfast of fruit , hot cereal , milk , honey , whole-wheat toast with real butter and eggs .
+4. Harriet's mouth watered with anticipation when after months of dreaming she sat down at last to her much-craved milk and fresh bread .
+5. He had eaten almost nothing on the crested , three-sectioned plate and had drunk about half the milk in its paper container .
+
+
+Feature 'with' and Cluster 2:
+1. With meat , milk , butter and ice cream , the calorie-heavy U.S. diet is 40% fat , and most of that is saturated fat -- the insidious kind , says Dr. Keys , that increases blood cholesterol , damages arteries , and leads to coronary disease .
+2. Blend 2 cups biscuit mix with 2/3 cup milk to make a soft dough .
+3. They tasted good to him , so he brought some to breakfast to eat in his cereal bowl with milk and honey .
+4. Mr. Clark believes in a good full breakfast of fruit , hot cereal , milk , honey , whole-wheat toast with real butter and eggs .
+5. `` I care not how soon we reach Calcutta , and are placed in a still room , with a bowl of milk and a loaf of Indian bread .

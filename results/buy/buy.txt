@@ -1,0 +1,67 @@
+Features that are found in one cluster:
+Cluster: 2	Feature: able, milk, patiently, sit, states, *VBP*, *VB*, *pcomp*
+Cluster: 1	Feature: *VBN*, *VBD*
+
+-------------------
+
+Example:
+
+
+Feature 'able' and Cluster 2:
+1. Local libraries find , too , that the new plan saves tax dollars because books can be bought through the system , and since the system buys in bulk it is able to obtain larger discounts than would be available to an individual library .
+2. Having achieved this end , he was able to buy 116,000 square miles in the valleys of the Red and Assiniboine rivers .
+3. When strong hands buy , they are able to buy more , and they do it even in the face of bearish news reports .
+4. They are able to sit more patiently with what they have bought .
+
+
+Feature 'milk' and Cluster 2:
+1. Soybean flour , grits , flakes , `` milk '' , and curd can be bought in the United States .
+2. Mr. Clifton would have preferred death and bankruptcy to having his son stay with his wife's people without contributing to his and his family's upkeep , and besides that there were the things that had to be bought for the baby , milk and orange juice and vitamins and soap , just plain soap .
+
+
+Feature 'patiently' and Cluster 2:
+1. They are able to sit more patiently with what they have bought .
+
+
+Feature 'sit' and Cluster 2:
+1. They are able to sit more patiently with what they have bought .
+
+
+Feature 'states' and Cluster 2:
+1. Soybean flour , grits , flakes , `` milk '' , and curd can be bought in the United States .
+
+
+Feature '*VBP*' and Cluster 2:
+1. Give generously when you buy candy today for the Brain Research Foundation .
+2. More than 20 million people live on farms and they own a fourth of the nation's trucks , buy more gasoline than any other industry and provide a major market for home appliances , chemicals and other products .
+3. In this same society , the plain citizen can with an average of only one-fifth his income buy more calories than he can consume .
+4. All framing in Hotei is one-inch mahogany which , in the dressed state you buy it , is about the 13/16-inch thickness specified in the drawings .
+5. You can get year-'round air conditioners in the same variety of styles in which you buy a furnace alone -- high or low boy , horizontal or counterflow .
+
+
+Feature '*VB*' and Cluster 2:
+1. For many reasons , the demand to buy shares in the Dallas-headquartered company was tremendous .
+2. Investors who wanted 100 shares in many cases ended up with 25 , and customers who had put in a bid to buy 400 shares found themselves with 100 and counted themselves lucky to get that many .
+3. He called the Cuban tractor plan an outright blackmail action , and noted that in war `` you can't buy yourself out and that's what we're trying to do '' .
+4. It was a level at which some of the investors standing on the sidelines were thought likely to buy the pivotal issues represented in the averages .
+5. Although the Administration's program cut crop acreage to the lowest point since 1934 , farmers , with the help of extra fertilizer and good weather , are getting such high yields per acre that many are being forced to buy new harvesting machines .
+
+
+Feature '*pcomp*' and Cluster 2:
+1. They are able to sit more patiently with what they have bought .
+
+
+Feature '*VBN*' and Cluster 1:
+1. F. Morris Cochran , university vice president and business manager , said the house has been bought to provide rental housing for faculty families , particularly for those here for a limited time .
+2. Therefore , the lumber is bought in planks and ripped to size for battens , etc. , on a table saw .
+3. In Chicago , some time ago , Mr. H. , age 27 , a diabetic since he was six , stopped using insulin because he had bought a `` magic spike '' -- a glass tube about the size of a pencil filled with barium chloride worth a small fraction of a cent -- sold by the Vrilium Company of Chicago for $306 as a cure-all .
+4. Until quite recently , `` sterile '' maggots could be bought to apply to a wound ; ;
+5. The greatest team of this period was unquestionably the New York Yankees , bought by brewery millions and made into a ball club by men named Ed Barrow and Miller Huggins .
+
+
+Feature '*VBD*' and Cluster 1:
+1. -- I bought 50 shares of Diversified Growth Stock Fund on Oct. 23 , 1959 , and 50 more shares of the same mutual fund on Feb. 8 , 1960 .
+2. `` I bought my first dress from him when I was still a struggling young actress '' , she reminisces .
+3. I bought a new little foreign bomb .
+4. He bought up Cezannes , Braques , Matisses , Legers , a splendid Picasso series , more than 70 Giacometti sculptures .
+5. As a result of the new outlook for turnpikes , investors who bought toll-road bonds when these securities ranked as outright speculations are now finding new hope for their investments .
