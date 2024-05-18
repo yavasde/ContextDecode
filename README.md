@@ -2,10 +2,6 @@
 
 ContextDecode is a powerful tool designed to automatically interpret clusters of contextualized word embeddings by identifying the sentence context features responsible for their formation.
 
-## Purpose
-
-The purpose of this tool is to provide automated interpretation of clusters of contextualized word embeddings. By analyzing the sentence context features that contribute to the formation of these clusters, ContextDecode offers valuable insights into the semantic nuances of words within different contexts.
-
 ## Method Details
 
 For a detailed explanation of the method behind ContextDecode, please refer to the accompanying blog post [here](https://medium.com/@deniz.eyavas/contextdecode-reverse-engineering-for-automated-interpretation-of-contextualized-embedding-e27882275f82).
