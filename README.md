@@ -1,10 +1,13 @@
 ﻿# ContextDecode: Reverse Engineering Contextualized Embedding Clusters for Automated Interpretation
 
-ContextDecode is a tool designed to automatically interpret clusters of contextualized word embeddings by identifying the sentence context features responsible for their formation.
+ContextDecode is a tool designed to automatically interpret contextualized word embedding clusters of a word by identifying the sentence context features responsible for their formation.
 
 ## Method Details
 
+
 <img src="https://github.com/yavasde/ContextDecode/assets/56029511/a6a8664d-4ee9-426d-bfa5-8c5b2e102f0f" width="500">
+
+_Figure 1: Method_
 
 
 For a detailed explanation of the method behind ContextDecode, please refer to the accompanying blog post [here](https://medium.com/@deniz.eyavas/contextdecode-reverse-engineering-for-automated-interpretation-of-contextualized-embedding-e27882275f82).
@@ -50,6 +53,9 @@ ContextDecode produces two main files as results:
 2. A t-SNE visualization of the clusters annotated with the important features.
 
 <img src="https://github.com/yavasde/ContextDecode/assets/56029511/b61711f8-db16-4547-9f6b-c3010f40c33a" width="500">
+
+_Figure 2: t-SNE visualization of “foot” instances, their clusters, and important features of each cluster_
+
 
 Additionally, the performance of the classifier trained with the top-10 features is provided. This is compared to a baseline classifier trained with random 10 features, offering insights into the effectiveness of the selected features for interpreting the clusters.
 
