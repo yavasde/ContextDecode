@@ -6,6 +6,9 @@ ContextDecode is a tool designed to automatically interpret clusters of contextu
 
 For a detailed explanation of the method behind ContextDecode, please refer to the accompanying blog post [here](https://medium.com/@deniz.eyavas/contextdecode-reverse-engineering-for-automated-interpretation-of-contextualized-embedding-e27882275f82).
 
+<img src="https://github.com/yavasde/ContextDecode/assets/56029511/a6a8664d-4ee9-426d-bfa5-8c5b2e102f0f" width="500">
+
+
 ## Usage
 
 This method has been successfully applied in the following publication:
@@ -44,6 +47,7 @@ ContextDecode produces two main files as results:
 1. A file containing example sentences with the important features annotated.
 2. A t-SNE visualization of the clusters annotated with the important features.
 
+<img src="https://github.com/yavasde/ContextDecode/assets/56029511/b61711f8-db16-4547-9f6b-c3010f40c33a" width="500">
 
 Additionally, the performance of the classifier trained with the top-10 features is provided. This is compared to a baseline classifier trained with random 10 features, offering insights into the effectiveness of the selected features for interpreting the clusters.
 
@@ -56,7 +60,7 @@ If no features are given for a cluster, it indicates that no important features 
   - Position of the target word in the sentence
   - Part-of-speech tag of the neighboring words of the target word
 
-The features that are given between ** are for dependency labels (_*dobj*_ for direct object), position of the word in the sentence (* _pos_1_ * for the first word in the sentence), morphological properties of the word (_*NNS*_ for plural noun) and POS tag of the neighboring words (_*NUM_l*_ for number as left neighbor; l for left neighbor, r for right neighbor). The features are annotated automatically using the spaCy parser and tagger using the _en_core_web_sm model_ [link](https://spacy.io/models/en#en_core_web_sm).
+The features that are given between ** are for dependency labels (* _dobj_ * for direct object), position of the word in the sentence (* _pos_1_ * for the first word in the sentence), morphological properties of the word (* _NNS_ * for plural noun) and POS tag of the neighboring words (* _NUM_l_ * for number as left neighbor; _l_ for left neighbor, _r_ for right neighbor). The features are annotated automatically using the spaCy parser and tagger using the _en_core_web_sm model_ [link](https://spacy.io/models/en#en_core_web_sm).
 
 The features that are given without * refer to the words/items that are found in the sentence. For example, _apple_ feature means that there is the word apple in the sentence.
 
