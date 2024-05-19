@@ -4,9 +4,11 @@ ContextDecode is a tool designed to automatically interpret clusters of contextu
 
 ## Method Details
 
+<img src="https://github.com/yavasde/ContextDecode/assets/56029511/a6a8664d-4ee9-426d-bfa5-8c5b2e102f0f" width="500">
+
+
 For a detailed explanation of the method behind ContextDecode, please refer to the accompanying blog post [here](https://medium.com/@deniz.eyavas/contextdecode-reverse-engineering-for-automated-interpretation-of-contextualized-embedding-e27882275f82).
 
-<img src="https://github.com/yavasde/ContextDecode/assets/56029511/a6a8664d-4ee9-426d-bfa5-8c5b2e102f0f" width="500">
 
 
 ## Usage
