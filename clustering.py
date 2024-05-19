@@ -21,7 +21,7 @@ def calculate_cluster_number(vectors):
     Calculates the optimal number of clusters using silhouette score.
 
     Parameters:
-    vectors (array-like): Input vectors.
+    vectors (np.array): Input vectors.
 
     Returns:
     int: Optimal number of clusters.
@@ -42,7 +42,7 @@ def get_cluster_labels(vectors):
     Performs clustering and returns cluster labels.
 
     Parameters:
-    vectors (array-like): Input vectors.
+    vectors (np.array): Input vectors.
 
     Returns:
     array: Cluster labels.
