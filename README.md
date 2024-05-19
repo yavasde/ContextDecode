@@ -1,6 +1,6 @@
 ﻿# ContextDecode: Reverse Engineering Contextualized Embedding Clusters for Automated Interpretation
 
-ContextDecode is a powerful tool designed to automatically interpret clusters of contextualized word embeddings by identifying the sentence context features responsible for their formation.
+ContextDecode is a tool designed to automatically interpret clusters of contextualized word embeddings by identifying the sentence context features responsible for their formation.
 
 ## Method Details
 
