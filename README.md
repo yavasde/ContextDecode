@@ -56,7 +56,7 @@ If no features are given for a cluster, it indicates that no important features 
   - Position of the target word in the sentence
   - Part-of-speech tag of the neighboring words of the target word
 
-The features that are given between ** are for dependency labels (*dobj* for direct object), position of the word in the sentence (_pos_1*_ for the first word in the sentence), morphological properties of the word (*NNS* for plural noun) and POS tag of the neighboring words (*NUM_l* for number as left neighbor; l for left neighbor, r for right neighbor). The features are annotated automatically using the spaCy parser and tagger using the _en_core_web_sm model_ [link](https://spacy.io/models/en#en_core_web_sm).
+The features that are given between ** are for dependency labels (_*dobj*_ for direct object), position of the word in the sentence (_*pos_1*_ for the first word in the sentence), morphological properties of the word (_*NNS*_ for plural noun) and POS tag of the neighboring words (_*NUM_l*_ for number as left neighbor; l for left neighbor, r for right neighbor). The features are annotated automatically using the spaCy parser and tagger using the _en_core_web_sm model_ [link](https://spacy.io/models/en#en_core_web_sm).
 
 The features that are given without * refer to the words/items that are found in the sentence. For example, _apple_ feature means that there is the word apple in the sentence.
 
