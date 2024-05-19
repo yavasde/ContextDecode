@@ -44,7 +44,13 @@ ContextDecode produces two main files as results:
 1. A file containing example sentences with the important features annotated.
 2. A t-SNE visualization of the clusters annotated with the important features.
 
+
 Additionally, the performance of the classifier trained with the top-10 features is provided. This is compared to a baseline classifier trained with random 10 features, offering insights into the effectiveness of the selected features for interpreting the clusters.
 
 If no features are given for a cluster, it indicates that no important features were found for that cluster.
+
+### Feature List:
+The features that are given between ** are for dependency labels (*dobj* for direct object), position of the word in the sentence (_pos_1*_ for the first word in the sentence), morphological properties of the word (*NNS* for plural noun) and POS tag of the neighboring words (*NUM_l* for number as left neighbor; l for left neighbor, r for right neighbor). The features are annotated automatically using the spaCy parser and tagger using the _en_core_web_sm model_ https://spacy.io/models/en#en_core_web_sm.
+
+The features that are given without * refer to the words/items that are found in the sentence. For example, _apple_ feature means that there is the word apple in the sentence.
 
